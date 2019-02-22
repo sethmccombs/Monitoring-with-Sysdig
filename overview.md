@@ -120,7 +120,7 @@ For more information, see [Configuring a Sysdig agent](/docs/services/Monitoring
 ## Viewing usage
 {: #overview_usage}
 
-To monitor the usage and costs of your service, see [Viewing your usage](/docs/billing-usage/viewing_usage.html#viewingusage).
+To monitor the usage and costs of your service, see [Viewing your usage](/docs/billing-usage?topic=billing-usage-viewingusage#viewingusage).
 
 
 ## Service plans

@@ -29,5 +29,5 @@ If you have problems or questions when using the IBM Cloud Monitoring with Sysdi
   * If you have technical questions about the IBM Cloud Monitoring with Sysdig service, post your question on [Stack Overflow](http://stackoverflow.com/search?q=ibm-cloud+sysdig){:new_window} and tag your question with "ibm-cloud" and "sysdig".
 
 
-* If you still can't resolve the problem, you can open an IBM support ticket. For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/get-support/howtogetsupport.html#getting-customer-support).
+* If you still can't resolve the problem, you can open an IBM support ticket. For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/get-support?topic=get-support-getting-customer-support#getting-customer-support).
 
